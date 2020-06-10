@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<server>
+    <base>
+        <user>
+            <name>Кирилл</name>
+        </user>
+        <user>
+            <name>Виталий</name>
+        </user>
+        <user>
+            <name>Николай</name>
+        </user>
+        <user>
+            <name>Сергей</name>
+        </user>
+    </base>
+</server>
